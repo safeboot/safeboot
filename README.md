@@ -3,7 +3,7 @@ My name is Safeboot (also known as Jake or Sanjin Brajević) and I am a full-sta
 
 - 📁 Full-stack Laravel developer
 - 🎨 Enjoyer of Tailwind CSS and Electron.js
-- 🤔 Working as a Full-stack web developer
+- 🌇 Working as a Full-stack web developer
 
 ---
 My social links: [Email](mailto:mynamesafeboot@gmail.com) | [Twitter](https://twitter.com/safeboot1) | [Instagram](https://instagram.com/imsafeboot/) | [Steam](https://steamcommunity.com/id/safeboot) | [Discord](https://discord.com/users/842859202329837619) | [LinkedIn](https://linkedin.com/in/sanjin-brajevi%C4%87/) | [YouTube](https://youtube.com/c/safeboot)
