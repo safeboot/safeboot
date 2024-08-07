@@ -2,7 +2,7 @@
 My name is Safeboot (also known as Jake or Sanjin Brajević) and I am a full-stack web developer. I enjoy Laravel and JS. I am also the creator of projects such as [aurora](https://auroracloud.gg) and Kyoto. I started programming with HTML and CSS and now I work fully in Laravel and JS but I am not afraid of testing my horizons.
 
 - 📁 Full-stack Laravel developer
-- 🎨 Enjoyer of Tailwind CSS and Electron.js
+- 🎨 Enjoyer of Tailwind CSS and Tauri
 - 🌇 Working as a Full-stack web developer
 
 ---
@@ -59,6 +59,8 @@ My name is Safeboot (also known as Jake or Sanjin Brajević) and I am a full-sta
   <img src="https://skillicons.dev/icons?i=svelte" height="32" alt="svelte logo"  />
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="32" alt="tailwindcss logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=tauri" height="32" alt="tauri logo"  />
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=ts" height="32" alt="typescript logo"  />
   <img width="6" />
